@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">hwRoomDB</string>
+    <string name="description">Description:</string>
+    <string name="daynweek">Enter the HW DATE and DESCRIPTION:</string>
+    <string name="day">Day</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="new_homework">ADD HW</string>
+    <string name="error_text">Error: %s</string>
+    <string name="info_text">%s</string>
+    <string name="done_text">Done?</string>
+    <string name="back_text">Back</string>
+    <string name="week_label_text">Week:</string>
+    <string name="day_label_text">Day:</string>
+</resources>
+
